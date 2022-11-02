@@ -14,8 +14,8 @@ Partie 2 :
 - Gestion des erreurs : cas 1 seule entrée
 
 
-Partie 3 :
-- Exemple écriture dans un fichier avec step 2
+Partie 3 ?:
+- Ebauche exemple écriture dans un fichier avec step 2
 
 Partie 4 ? :
 - xml
